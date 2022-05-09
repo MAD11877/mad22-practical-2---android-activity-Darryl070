@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MADPractical</string>
+    <string name="textview">TextView</string>
+    <string name="follow">follow</string>
+    <string name="message">message</string>
+    <string name="todo">TODO</string>
+</resources>
